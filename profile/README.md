@@ -29,10 +29,6 @@
 
 ## 🔥 Who We Are
 
----
-
-## 🔥 Who We Are
-
 CostlyInfra.com is where **cloud infrastructure, AI, and FinOps meet**.
 We focus on one thing: **making AI and cloud systems economically efficient**.
 
